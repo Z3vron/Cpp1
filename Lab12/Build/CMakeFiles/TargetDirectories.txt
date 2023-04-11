@@ -1,0 +1,3 @@
+/home/stud2020/0brzyski/Cpp1/Lab12/Build/CMakeFiles/rebuild_cache.dir
+/home/stud2020/0brzyski/Cpp1/Lab12/Build/CMakeFiles/edit_cache.dir
+/home/stud2020/0brzyski/Cpp1/Lab12/Build/CMakeFiles/Lab12.dir

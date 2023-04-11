@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Include/Data.h
+iostream
+-
+vector
+-
+Sum.h
+../Include/Sum.h
+iomanip
+-
+
+../Include/Sum.h
+iostream
+-
+
+../Include/Table.h
+iostream
+-
+Data.h
+../Include/Data.h
+algorithm
+-
+functional
+-
+
+/home/stud2020/0brzyski/Cpp1/Lab12/Main.cpp
+Sum.h
+/home/stud2020/0brzyski/Cpp1/Lab12/Sum.h
+Data.h
+/home/stud2020/0brzyski/Cpp1/Lab12/Data.h
+Table.h
+/home/stud2020/0brzyski/Cpp1/Lab12/Table.h
+iostream
+-
+

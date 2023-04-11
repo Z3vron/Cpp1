@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/Lab12.dir/Main.cpp.o -o Lab12 
